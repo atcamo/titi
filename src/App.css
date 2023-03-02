@@ -5,3 +5,17 @@
   text-align: center;
 }
 
+.bg {
+  background-image: url(../src/img/image.jpg);
+}
+
+@media screen and (max-width: 768px) {
+  h1Nav {
+    font-size: 3rem;
+  }
+  
+}
+
+.chakra-menu__menuitem {
+  color: #000;
+}

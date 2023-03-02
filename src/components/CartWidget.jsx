@@ -3,8 +3,8 @@ import React from 'react'
 const CartWidget = () => {
     return (
         <>
-            <div>
-                <span className='material-symbols-outlined'>Carro
+        <div style={{ marginTop: '30px' }}>
+                <span className='material-symbols-outlined'  >0
                 shopping_cart
                 </span>
             </div>
