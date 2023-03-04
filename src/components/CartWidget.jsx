@@ -4,9 +4,10 @@ const CartWidget = () => {
     return (
         <>
         <div style={{ marginTop: '30px' }}>
-                <span className='material-symbols-outlined'  >0
+                <span className='material-symbols-outlined' >
                 shopping_cart
                 </span>
+                <span>0</span>
             </div>
         </>
     );

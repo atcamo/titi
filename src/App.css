@@ -19,3 +19,15 @@
 .chakra-menu__menuitem {
   color: #000;
 }
+
+.menu-list{
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-catalogue{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 5rem;
+}
